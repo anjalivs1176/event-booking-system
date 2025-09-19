@@ -1,0 +1,29 @@
+# Maven
+/target/
+
+# IntelliJ
+*.iml
+/.idea/
+/out/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and builds
+*.log
+*.tmp
+*.class
+*.jar
+*.war
+
+# env / secrets
+.env
+
+# Eclipse
+.project
+.classpath
+.settings/
